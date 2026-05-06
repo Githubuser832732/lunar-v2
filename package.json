@@ -22,7 +22,7 @@
     "@mercuryworkshop/scramjet": "https://github.com/MercuryWorkshop/scramjet/releases/download/latest/mercuryworkshop-scramjet-2.0.0-alpha.tgz",
     "@mercuryworkshop/wisp-js": "^0.4.1",
     "@playform/compress": "^0.2.1",
-    "@tailwindcss/vite": "^4.1.18",
+    "@mercuryworkshop/scramjet": "github:MercuryWorkshop/scramjet#main",
     "@titaniumnetwork-dev/ultraviolet": "^3.2.10",
     "astro": "^5.18.0",
     "chalk": "^5.6.2",
